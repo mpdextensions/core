@@ -1,0 +1,33 @@
+{
+  "name": "mpdextensions/module-core",
+  "description": "Magento 2 Core Module",
+  "type": "magento2-module",
+  "version": "1.4.5",
+  "license": [
+        "OSL-3.0",
+        "AFL-3.0"
+    ],
+  "authors": [
+    {
+      "name": "MpdExtensions",
+      "email": "support@mpdextensions.com",
+      "homepage": "https://www.mpdextensions.com/"
+    }
+  ],
+  "repositories": [
+        {
+            "type": "composer",
+            "url": ""  
+        }
+    ],
+  "require": {
+  },
+  "autoload": {
+    "files": [
+        "registration.php"
+    ],
+    "psr-4": {
+        "Mpdextensions\\Extrafee\\": ""
+    }
+  }
+}

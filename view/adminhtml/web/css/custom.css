@@ -1,0 +1,4 @@
+.admin__menu .level-0#menu-mpdextensions-core-admin > a:before {
+    content: url('../images/mpd.png');
+    margin-bottom: 20px;
+}
