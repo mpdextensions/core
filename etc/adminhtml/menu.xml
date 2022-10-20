@@ -2,8 +2,8 @@
 <config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
         xsi:noNamespaceSchemaLocation="urn:magento:module:Magento_Backend:etc/menu.xsd">
     <menu>
-        <add id="Mpdextensions_Core::admin" 
-             title="Mpdextensions" module="Mpdextensions_Core" 
-             sortOrder="51" resource="Mpdextensions_Core::admin"/>
+        <add id="MpdExtensions_Core::admin" 
+             title="MpdExtensions" module="MpdExtensions_Core" 
+             sortOrder="51" resource="MpdExtensions_Core::admin"/>
     </menu>
 </config>

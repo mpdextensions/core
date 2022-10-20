@@ -1,6 +1,6 @@
 <?php
 
-namespace Mpdextensions\Core\Helper;
+namespace MpdExtensions\Core\Helper;
 
 use Exception;
 use Magento\Backend\App\Config;
@@ -18,7 +18,7 @@ use Magento\Store\Model\StoreManagerInterface;
 
 /**
  * Class AbstractData
- * @package Mpdextensions\Core\Helper
+ * @package MpdExtensions\Core\Helper
  */
 class AbstractData extends AbstractHelper
 {
