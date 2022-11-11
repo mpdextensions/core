@@ -3,7 +3,7 @@
         xsi:noNamespaceSchemaLocation="urn:magento:module:Magento_Backend:etc/menu.xsd">
     <menu>
         <add id="MpdExtensions_Core::admin" 
-             title="MpdExtensions" module="MpdExtensions_Core" 
+             title="Mpd Extensions" module="MpdExtensions_Core" 
              sortOrder="51" resource="MpdExtensions_Core::admin"/>
     </menu>
 </config>
