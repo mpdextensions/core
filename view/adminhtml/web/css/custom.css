@@ -1,4 +1,4 @@
 .admin__menu .level-0#menu-mpdextensions-core-admin > a:before {
-    content: url('../images/mpd.png');
+    content: url('../images/mpd.svg');
     margin-bottom: 20px;
 }
