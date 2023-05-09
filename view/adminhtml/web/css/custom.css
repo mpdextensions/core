@@ -6,7 +6,7 @@
 }
 .config-nav .mpd-logo .admin__page-nav-title:before{
     content: ''; 
-    background: url('../images/mpd.svg');
+    background: url('../images/mpdicon.svg');
     background-size: contain;
     display: block;
     width: 30px;
