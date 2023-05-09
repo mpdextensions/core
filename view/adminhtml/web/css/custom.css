@@ -4,3 +4,17 @@
     margin: 0 auto;
     margin-bottom: 20px !important;
 }
+.config-nav .mpd-logo .admin__page-nav-title:before{
+    content: ''; 
+    background: url('../images/mpd.svg');
+    background-size: contain;
+    display: block;
+    width: 30px;
+    height: 30px;
+    position: absolute;
+    top: 11px;
+    background-repeat: no-repeat;
+}
+.config-nav .mpd-logo .admin__page-nav-title strong {
+        margin-left: 40px;
+}
