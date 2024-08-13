@@ -2,17 +2,16 @@
     content: url('../images/mpd.svg');
     max-width: 35px;
     margin: 0 auto;
-    margin-bottom: 20px !important;
 }
 .config-nav .mpd-logo .admin__page-nav-title:before{
     content: ''; 
     background: url('../images/mpdiconsidebar.svg');
     background-size: contain;
     display: block;
-    width: 30px;
+    width: 180px;
     height: 30px;
     position: absolute;
-    top: 11px;
+    top: 15px;
     background-repeat: no-repeat;
 }
 .config-nav .mpd-logo .admin__page-nav-title strong {

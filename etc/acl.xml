@@ -3,7 +3,7 @@
     <acl>
         <resources>
             <resource id="Magento_Backend::admin">
-                <resource id="MpdExtensionss_Core::admin" 
+                <resource id="MpdExtensions_Core::admin" 
                           title="MpdExtensions Admin Settings" sortOrder="10" />
             </resource>
         </resources>
